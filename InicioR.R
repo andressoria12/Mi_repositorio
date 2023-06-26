@@ -8,4 +8,4 @@
 1-5
 
 #Multiplicación
-1x3
+1*3
