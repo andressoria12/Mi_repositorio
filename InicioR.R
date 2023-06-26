@@ -6,3 +6,6 @@
 
 #Resta
 1-5
+
+#Multiplicación
+1x3
